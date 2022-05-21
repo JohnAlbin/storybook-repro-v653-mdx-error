@@ -1,0 +1,11 @@
+{
+  "name": "storybook-repro-v653-mdx-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
